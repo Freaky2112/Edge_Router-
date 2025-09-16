@@ -4,4 +4,4 @@
 ## Edge Router auto Config file
 
 
-(/images/screenshot)
+(/images/Edges.PNG)
