@@ -7,3 +7,7 @@
 <p align="center">
   <img src="images/Edge.PNG" width="400">
 </p>
+
+
+## License
+[Unlicense](LICENSE)
