@@ -4,4 +4,6 @@
 ## Edge Router auto Config file
 
 
-(/images/Edges.PNG)
+<p align="center">
+  <img src="images/Edges.png" width="400">
+</p>
