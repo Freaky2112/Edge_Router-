@@ -5,5 +5,5 @@
 
 
 <p align="center">
-  <img src="images/Edges.png" width="400">
+  <img src="images/Edge.PNG" width="400">
 </p>
