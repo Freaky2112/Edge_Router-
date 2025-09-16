@@ -1,2 +1,7 @@
-# Edge_Router-
-Edge Router auto Config file
+# Edge_Router
+<br>
+
+## Edge Router auto Config file
+
+
+(/images/screenshot)
