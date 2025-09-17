@@ -1,8 +1,8 @@
 # Edge_Router
 
-![License](https://img.shields.io/badge/license-Unlicense-blue.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-orange.svg)
+![License](https://img.shields.io/badge/license-Unlicense-blue.svg)
 
 ---
 <br>
