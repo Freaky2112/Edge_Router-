@@ -28,7 +28,7 @@ the first pages he will spit out all the command to setup your router through co
 ---
 <br>
 
-## License
+## 📜 License
 [Unlicense](LICENSE)
 
 ---
