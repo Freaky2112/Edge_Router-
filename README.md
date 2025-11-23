@@ -90,7 +90,7 @@ show configuration commands > backup-config.txt
 
 ## License
 
-**MIT License**
+**Unlicense**
 
 ## Contributing
 
