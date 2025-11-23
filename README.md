@@ -106,4 +106,9 @@ For issues or questions, please open an issue in this repository.
 
 ---
 
+## Project Status
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Freaky2112/Edge_Router-)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Freaky2112/Edge_Router-?color=purple)
+---
 **Note**: This tool is community-developed and is not officially supported by Ubiquiti Networks.
