@@ -1,3 +1,6 @@
+# ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg) ![Contributions](https://img.shields.io/badge/contributions-welcome-orange.svg) 
+![GitHub license](https://img.shields.io/github/license/Freaky2112/Scripts?style=flat-square&color=blue) ![Stars](https://img.shields.io/github/stars/Freaky2112/Scripts) 
+
 # Edge Router Auto Config
 
 An Excel-based configuration generator for Ubiquiti EdgeRouter devices that automatically creates command-line interface (CLI) commands for router setup.
@@ -87,7 +90,7 @@ show configuration commands > backup-config.txt
 
 ## License
 
-[Specify your license here]
+**MIT License**
 
 ## Contributing
 
